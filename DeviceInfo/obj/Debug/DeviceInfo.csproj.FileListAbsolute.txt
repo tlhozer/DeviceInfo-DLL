@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\DeviceInfo\bin\Debug\DeviceInfo.dll
+C:\Users\admin\Desktop\DeviceInfo\bin\Debug\DeviceInfo.pdb
+C:\Users\admin\Desktop\DeviceInfo\obj\Debug\DeviceInfo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DeviceInfo\obj\Debug\DeviceInfo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DeviceInfo\obj\Debug\DeviceInfo.dll
+C:\Users\admin\Desktop\DeviceInfo\obj\Debug\DeviceInfo.pdb
+C:\Users\admin\Desktop\Projects\DeviceInfo\bin\Debug\DeviceInfo.dll
+C:\Users\admin\Desktop\Projects\DeviceInfo\bin\Debug\DeviceInfo.pdb
+C:\Users\admin\Desktop\Projects\DeviceInfo\obj\Debug\DeviceInfo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\DeviceInfo\obj\Debug\DeviceInfo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\DeviceInfo\obj\Debug\DeviceInfo.dll
+C:\Users\admin\Desktop\Projects\DeviceInfo\obj\Debug\DeviceInfo.pdb
